@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
+    "handlebars": "^4.0.14",
     "immutable": "^4.0.0-rc.9",
     "memoize-one": "^4.0.0",
     "react": "^16.6.0",
