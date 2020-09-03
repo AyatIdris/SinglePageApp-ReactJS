@@ -92,7 +92,7 @@
     "flow-bin": "^0.75.0",
     "postcss-cli": "^6.0.1",
     "prettier": "1.14.2",
-    "serve": "^10.0.2",
+    "serve": "^10.1.2",
     "tailwindcss": "^0.6.6"
   }
 }
